@@ -1,6 +1,6 @@
 ### Esta es una propuesta para
 
-* [ ] Una charla
+* [x] Una charla
 * [ ] Un workshop
 
 **Nota: Por favor marcar uno solo**
